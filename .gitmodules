@@ -1,0 +1,6 @@
+[submodule "Home"]
+	path = Home
+	url = https://github.com/Valinaa/Site-Home.git
+[submodule "Pages"]
+	path = Pages
+	url = https://github.com/Valinaa/Site-Pages.git
