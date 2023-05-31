@@ -4,3 +4,6 @@
 [submodule "Pages"]
 	path = Pages
 	url = https://github.com/Valinaa/Site-Pages.git
+[submodule "Intro"]
+	path = Intro
+	url = https://github.com/Valinaa/Site-Intro.git
