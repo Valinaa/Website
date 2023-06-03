@@ -7,3 +7,6 @@
 [submodule "Intro"]
 	path = Intro
 	url = https://github.com/Valinaa/Site-Intro.git
+[submodule "Blog"]
+	path = Blog
+	url = https://github.com/Valinaa/Site-Blog.git
