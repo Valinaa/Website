@@ -2,7 +2,7 @@
 	path = Home
 	url = https://github.com/Valinaa/Site-Home.git
 [submodule "Pages"]
-	path = Pages
+	path = Main
 	url = https://github.com/Valinaa/Site-Pages.git
 [submodule "Intro"]
 	path = Intro
