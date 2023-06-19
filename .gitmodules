@@ -7,6 +7,3 @@
 [submodule "Blog"]
 	path = Blog
 	url = https://github.com/Valinaa/Site-Blog.git
-[submodule "Home"]
-	path = Home
-	url = https://github.com/Valinaa/Site-Home.git
