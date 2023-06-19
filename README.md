@@ -6,6 +6,11 @@
 * The website development is continuously updating, and it is expected that there will be 1-2 more modules. If you are interested, please continue to follow or contact the author for technical exchange.
 * The Website development adopts the latest technology stack, such as TypeScript (5.0+), Vue3 Setup, Vite (4.0+), WindiCSS (to be replaced with UnoCSS in the future), etc.
 
+## *Note！*
+
+* Due to the limitations of the author's personal abilities and demands, this multi module repo does not adopt `Multi-Page Application(MPA)` of `Vue`, but is divided into individual `Single-Page Application(SPA)` that can be selected according to personal needs.
+* If you need it, you can also configure multi page components yourself. If you have successfully built a MPA website, your feedback is also very welcome, providing another choice for other open-source enthusiasts!
+
 ## Author Speak
 
 * I'm not familiar with front-end development, and website development is purely a matter of interest, so please forgive me for many aspects that are not rigorous or complete.
